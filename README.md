@@ -23,6 +23,12 @@ Een dynamische PHP-applicatie gebouwd als schoolopdracht voor het MBO Software D
   - 100% valide **W3C HTML5** markup (0 errors, 0 warnings).
   - Modulaire architectuur met `require_once` voor databaseverbinding en herbruikbare footer.
 
+- **Vormgeving & User Experience**:
+  - Rustige, moderne achtergrond en afgeronde container-blokken.
+  - Interactieve hover-effecten en dynamische schaduwen (`box-shadow`) op de karakterkaarten.
+  - Kleurcodering voor de statistieken (rood voor health, oranje voor attack, blauw voor defense).
+  - Herkenbare knoppen voor het terugkeren en bekijken van karakters.
+
 ---
 
 ## 🛠️ Installatie & Gebruik
